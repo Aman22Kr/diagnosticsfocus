@@ -1,0 +1,6 @@
+{
+  "name": "DiagnosticsFocus",
+  "description": "DiagnosticsFocus - India's Trusted Pathology Lab Network & Comprehensive Health Checkup Services. Free Home Sample Collection, NABL Accredited Labs, & Same-Day Accurate Digital Reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
